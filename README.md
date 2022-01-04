@@ -39,7 +39,7 @@ You are going to create a profile website from scratch using HTML only.
 ### Section 3:
 
 - Start section with a separator comment `<!-- Section 3 -->`
-- Create a footer using `div` with a `style` attribute `background-color: black; color: white;`
+- Create a footer using `div` with a `  style` attribute `background-color: black; color: white;`
 - Using the tag `<a href="link">...</a>`, add inside the footer links with titles for your social media account (e.g. [twitter](https://twitter.com/joincoded)). Where if you click on it, it will redirect to your account directly. (It should open in a new tab!)
 - Using the tag `<a>`, add a link with title "whatsapp me", where if you click on it, it will open Whatsapp web to directly contact your number. [Learn how](https://faq.whatsapp.com/iphone/how-to-link-to-whatsapp-from-a-different-app/?lang=en)
 - Each link should be in a separate line
